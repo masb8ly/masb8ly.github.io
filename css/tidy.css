@@ -138,16 +138,6 @@ a:active
     -webkit-flex-wrap: wrap;
 }
 
-.screenshot-item
-{
-    width: 24%;
-}
-
-.screenshot-item a img
-{
-    width: 100%;
-}
-
 .featherlight .featherlight-image
 {
     height: 100% !important;
@@ -365,13 +355,6 @@ a:active
 	{
 		font-size: 1.2em;
 	}
-
-    .screenshot-item
-    {
-        width: 49% !important;
-        margin-bottom: 10px;
-    }
-
 	
 	.content-card 
 	{
