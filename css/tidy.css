@@ -88,6 +88,12 @@ a:active
 	padding: 1%;
 }
 
+.news-img 
+{
+    float:left;
+    margin: 7px 7px 7px 0;
+}
+
 .work-title
 {
 	display: inline-block;
